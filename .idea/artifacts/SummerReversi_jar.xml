@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SummerReversi:jar">
+    <output-path>$PROJECT_DIR$/out</output-path>
+    <root id="archive" name="SummerReversi.jar">
+      <element id="module-output" name="SummerReversi" />
+      <element id="directory" name="assets">
+        <element id="dir-copy" path="$PROJECT_DIR$/resources/assets" />
+      </element>
+    </root>
+  </artifact>
+</component>
